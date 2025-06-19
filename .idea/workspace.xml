@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="011f0a1d-0c14-484f-b841-1abcf8439628" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_03/CompoundAssignmentOper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_03/ConcatenateOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_03/LogicalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_03/RelationalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_03/TypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_03/functionofstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_02/Operators.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_02/Operators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics_02/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_02/Operators.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,13 +44,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CompoundAssignmentOper.executor": "Run",
+    "Application.ConcatenateOperator.executor": "Run",
     "Application.Lab01.executor": "Run",
+    "Application.LogicalOperator.executor": "Run",
     "Application.Operators.executor": "Run",
+    "Application.RelationalOperator.executor": "Run",
     "Application.Tableof9.executor": "Run",
+    "Application.TypeCasting.executor": "Run",
     "Application.charactervariable.executor": "Run",
     "Application.constant.executor": "Run",
     "Application.formatting.executor": "Run",
     "Application.formattingUsingSOF.executor": "Run",
+    "Application.functionofstring.executor": "Run",
     "Application.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -54,13 +68,13 @@
     "settings.editor.selected.configurable": "fileTemplates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Operators">
-    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_02.Operators" />
+  <component name="RunManager" selected="Application.functionofstring">
+    <configuration name="CompoundAssignmentOper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_03.CompoundAssignmentOper" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.basics_02.*" />
+          <option name="PATTERN" value="src.basics_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tableof9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_02.Tableof9" />
+    <configuration name="LogicalOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_03.LogicalOperator" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.basics_02.*" />
+          <option name="PATTERN" value="src.basics_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="charactervariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_02.charactervariable" />
+    <configuration name="RelationalOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_03.RelationalOperator" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.basics_02.*" />
+          <option name="PATTERN" value="src.basics_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="constantvariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_02.constantvariable" />
+    <configuration name="TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_03.TypeCasting" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.basics_02.*" />
+          <option name="PATTERN" value="src.basics_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="formattingUsingSOF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_02.formattingUsingSOF" />
+    <configuration name="functionofstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_03.functionofstring" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.basics_02.*" />
+          <option name="PATTERN" value="src.basics_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Operators" />
-        <item itemvalue="Application.charactervariable" />
-        <item itemvalue="Application.constantvariable" />
-        <item itemvalue="Application.formattingUsingSOF" />
-        <item itemvalue="Application.Tableof9" />
+        <item itemvalue="Application.functionofstring" />
+        <item itemvalue="Application.TypeCasting" />
+        <item itemvalue="Application.LogicalOperator" />
+        <item itemvalue="Application.RelationalOperator" />
+        <item itemvalue="Application.CompoundAssignmentOper" />
       </list>
     </recent_temporary>
   </component>
@@ -140,5 +154,16 @@
       <updated>1750065948591</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -24,7 +24,7 @@ public class Operators {
         double mul = a*b;
         System.out.println(mul);
 
-        double div = a/b;
+        double div = a / b;
         System.out.println(div);
 
 
