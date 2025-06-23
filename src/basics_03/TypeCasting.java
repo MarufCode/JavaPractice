@@ -20,6 +20,13 @@ public class TypeCasting {
         byte b1 = (byte) a1;
         System.out.println(b1);
 
+        int course = 100;
+
+        float GST = 0.1845f;
+
+        float total = course+GST*course;
+        System.out.println(total);
+
 
 
 

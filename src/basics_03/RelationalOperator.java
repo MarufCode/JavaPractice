@@ -17,6 +17,5 @@ public class RelationalOperator {
         boolean c = (a==b);
         System.out.println(c);
 
-
     }
 }

@@ -32,6 +32,7 @@ public class functionofstring {
         String s3 = "Hello Guys";
 
         String s4 = s1.concat(s2);
+        System.out.println(s4);
 
 
 
