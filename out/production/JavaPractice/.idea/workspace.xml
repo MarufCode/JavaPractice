@@ -34,35 +34,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.CompoundAssignmentOper.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConcatenateOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LogicalOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Operators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RelationalOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Tableof9.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TypeCasting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.charactervariable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.constant.executor&quot;: &quot;Run&quot;,
-    &quot;Application.formatting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.formattingUsingSOF.executor&quot;: &quot;Run&quot;,
-    &quot;Application.functionofstring.executor&quot;: &quot;Run&quot;,
-    &quot;Application.variables.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CompoundAssignmentOper.executor": "Run",
+    "Application.ConcatenateOperator.executor": "Run",
+    "Application.InstanceofOperator.executor": "Run",
+    "Application.Lab01.executor": "Run",
+    "Application.LogicalOperator.executor": "Run",
+    "Application.Operators.executor": "Run",
+    "Application.RelationalOperator.executor": "Run",
+    "Application.Tableof9.executor": "Run",
+    "Application.TypeCasting.executor": "Run",
+    "Application.charactervariable.executor": "Run",
+    "Application.conditionAndLoops.executor": "Run",
+    "Application.constant.executor": "Run",
+    "Application.decrementOperator.executor": "Run",
+    "Application.formatting.executor": "Run",
+    "Application.formattingUsingSOF.executor": "Run",
+    "Application.functionofstring.executor": "Run",
+    "Application.ifLoops.executor": "Run",
+    "Application.ifloop.executor": "Run",
+    "Application.incrementOperator.executor": "Run",
+    "Application.ternaryOperator.executor": "Run",
+    "Application.variables.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "fileTemplates"
   }
-}</component>
-  <component name="RunManager" selected="Application.TypeCasting">
-    <configuration name="CompoundAssignmentOper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_03.CompoundAssignmentOper" />
+}]]></component>
+  <component name="RunManager" selected="Application.ifloop">
+    <configuration name="InstanceofOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_03.InstanceofOperator" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -74,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogicalOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_03.LogicalOperator" />
+    <configuration name="decrementOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_03.decrementOperator" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RelationalOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_03.RelationalOperator" />
+    <configuration name="ifloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_03.ifloop" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_03.TypeCasting" />
+    <configuration name="incrementOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_03.incrementOperator" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -113,8 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="functionofstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_03.functionofstring" />
+    <configuration name="ternaryOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_03.ternaryOperator" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -128,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TypeCasting" />
-        <item itemvalue="Application.functionofstring" />
-        <item itemvalue="Application.LogicalOperator" />
-        <item itemvalue="Application.RelationalOperator" />
-        <item itemvalue="Application.CompoundAssignmentOper" />
+        <item itemvalue="Application.ifloop" />
+        <item itemvalue="Application.decrementOperator" />
+        <item itemvalue="Application.incrementOperator" />
+        <item itemvalue="Application.ternaryOperator" />
+        <item itemvalue="Application.InstanceofOperator" />
       </list>
     </recent_temporary>
   </component>

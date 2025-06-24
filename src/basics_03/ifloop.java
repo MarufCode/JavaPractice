@@ -59,18 +59,30 @@ public class ifloop {
 
 
         // Take the two input from user and give max out of it
+//
+//        Scanner sc =new Scanner(System.in);
+//        System.out.println("Enter the value of a and c");
+//        int a = sc.nextInt();
+//        int c = sc.nextInt();
+//
+//        if (a>c){
+//            System.out.println("Max number is " + a);
+//        }else{
+//            System.out.println("Max number is " + c);
+//        }
 
-        Scanner sc =new Scanner(System.in);
-        System.out.println("Enter the value of a and c");
-        int a = sc.nextInt();
-        int c = sc.nextInt();
 
-        if (a>c){
-            System.out.println("Max number is " + a);
-        }else{
-            System.out.println("Max number is " + c);
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter your number");
+        int number = sc.nextInt();
+
+        if (number>20){
+            System.out.println("Number is greater than 20");
+        }else if (number<10){
+            System.out.println("Number is less than 10");
+        }else {
+            System.out.println("Number is <20");
         }
-
 
 
 

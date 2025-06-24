@@ -5,19 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="011f0a1d-0c14-484f-b841-1abcf8439628" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basics_03/InstanceofOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_03/decrementOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_03/ifLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_03/incrementOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_03/ternaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_04/gradeCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/RelationalOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/RelationalOperator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/TypeCasting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/TypeCasting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/functionofstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/functionofstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics_03/RelationalOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_03/RelationalOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics_03/TypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_03/TypeCasting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics_03/functionofstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_03/functionofstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/ifLoops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics_03/ifloop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_03/ifloop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +56,9 @@
     "Application.formatting.executor": "Run",
     "Application.formattingUsingSOF.executor": "Run",
     "Application.functionofstring.executor": "Run",
+    "Application.gradeCalculator.executor": "Run",
     "Application.ifLoops.executor": "Run",
+    "Application.ifloop.executor": "Run",
     "Application.incrementOperator.executor": "Run",
     "Application.ternaryOperator.executor": "Run",
     "Application.variables.executor": "Run",
@@ -78,20 +72,7 @@
     "settings.editor.selected.configurable": "fileTemplates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ifLoops">
-    <configuration name="InstanceofOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_03.InstanceofOperator" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.basics_03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.gradeCalculator">
     <configuration name="decrementOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.basics_03.decrementOperator" />
       <module name="JavaPractice" />
@@ -105,8 +86,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ifLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_03.ifLoops" />
+    <configuration name="gradeCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_04.gradeCalculator" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.basics_04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ifloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_03.ifloop" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -146,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ifLoops" />
+        <item itemvalue="Application.gradeCalculator" />
+        <item itemvalue="Application.ifloop" />
         <item itemvalue="Application.decrementOperator" />
         <item itemvalue="Application.incrementOperator" />
         <item itemvalue="Application.ternaryOperator" />
-        <item itemvalue="Application.InstanceofOperator" />
       </list>
     </recent_temporary>
   </component>
