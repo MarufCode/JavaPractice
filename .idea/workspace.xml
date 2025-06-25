@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="011f0a1d-0c14-484f-b841-1abcf8439628" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basics_04/switchCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_04/triangleClassifire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_04/vowelCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_04/problemStatement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_04/gradeCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_04/gradeCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_04/switchCondition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_04/switchCondition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics_04/switchCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_04/switchCondition.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,10 +59,12 @@
     "Application.ifLoops.executor": "Run",
     "Application.ifloop.executor": "Run",
     "Application.incrementOperator.executor": "Run",
+    "Application.problemStatement.executor": "Run",
     "Application.switchCondition.executor": "Run",
     "Application.ternaryOperator.executor": "Run",
     "Application.triangleClassifire.executor": "Run",
     "Application.variables.executor": "Run",
+    "Application.vowelCheck.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -74,7 +75,7 @@
     "settings.editor.selected.configurable": "fileTemplates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.vowelCheck">
+  <component name="RunManager" selected="Application.switchCondition">
     <configuration name="gradeCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.basics_04.gradeCalculator" />
       <module name="JavaPractice" />
@@ -88,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ifloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_03.ifloop" />
+    <configuration name="problemStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_04.problemStatement" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.basics_03.*" />
+          <option name="PATTERN" value="src.basics_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.vowelCheck" />
         <item itemvalue="Application.switchCondition" />
+        <item itemvalue="Application.problemStatement" />
+        <item itemvalue="Application.vowelCheck" />
         <item itemvalue="Application.triangleClassifire" />
         <item itemvalue="Application.gradeCalculator" />
-        <item itemvalue="Application.ifloop" />
       </list>
     </recent_temporary>
   </component>
