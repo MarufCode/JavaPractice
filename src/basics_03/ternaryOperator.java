@@ -23,7 +23,7 @@ public class ternaryOperator {
 
         // MAX of two numbers
 
-
+//
         int a = 10;
         int b = 30;
 
