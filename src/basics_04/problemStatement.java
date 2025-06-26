@@ -31,7 +31,7 @@ public class problemStatement {
 
         switch (payment_mode.toLowerCase()){
 
-            case "phonePay":
+            case "phonepay":
                 System.out.println("Phone pay app wil open");
                 break;
 

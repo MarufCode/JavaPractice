@@ -6,6 +6,33 @@
   <component name="ChangeListManager">
     <list default="true" id="011f0a1d-0c14-484f-b841-1abcf8439628" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_01/Lab01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_01/variables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_02/Operators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_02/PrimitiveDT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_02/Tableof9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_02/charactervariable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_02/constantvariable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_02/formattingUsingSOF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/CompoundAssignmentOper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/ConcatenateOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/InstanceofOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/LogicalOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/RelationalOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/TypeCasting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/decrementOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/functionofstring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/ifloop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/incrementOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/ternaryOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_04/gradeCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_04/problemStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_04/switchCondition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_04/triangleClassifire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_04/vowelCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics_03/ternaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_03/ternaryOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics_04/problemStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_04/problemStatement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,11 +79,16 @@
     "Application.formatting.executor": "Run",
     "Application.formattingUsingSOF.executor": "Run",
     "Application.functionofstring.executor": "Run",
+    "Application.gradeCalculator.executor": "Run",
     "Application.ifLoops.executor": "Run",
     "Application.ifloop.executor": "Run",
     "Application.incrementOperator.executor": "Run",
+    "Application.problemStatement.executor": "Run",
+    "Application.switchCondition.executor": "Run",
     "Application.ternaryOperator.executor": "Run",
+    "Application.triangleClassifire.executor": "Run",
     "Application.variables.executor": "Run",
+    "Application.vowelCheck.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -67,13 +99,13 @@
     "settings.editor.selected.configurable": "fileTemplates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ifloop">
-    <configuration name="InstanceofOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_03.InstanceofOperator" />
+  <component name="RunManager" selected="Application.problemStatement">
+    <configuration name="problemStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_04.problemStatement" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.basics_03.*" />
+          <option name="PATTERN" value="src.basics_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,38 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="decrementOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_03.decrementOperator" />
+    <configuration name="switchCondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_04.switchCondition" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.basics_03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ifloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_03.ifloop" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.basics_03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="incrementOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_03.incrementOperator" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.basics_03.*" />
+          <option name="PATTERN" value="src.basics_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,13 +139,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="triangleClassifire" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_04.triangleClassifire" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.basics_04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vowelCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_04.vowelCheck" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.basics_04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ifloop" />
-        <item itemvalue="Application.decrementOperator" />
-        <item itemvalue="Application.incrementOperator" />
+        <item itemvalue="Application.problemStatement" />
         <item itemvalue="Application.ternaryOperator" />
-        <item itemvalue="Application.InstanceofOperator" />
+        <item itemvalue="Application.switchCondition" />
+        <item itemvalue="Application.vowelCheck" />
+        <item itemvalue="Application.triangleClassifire" />
       </list>
     </recent_temporary>
   </component>

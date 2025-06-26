@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="011f0a1d-0c14-484f-b841-1abcf8439628" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basics_04/problemStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05/continue_condition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05/forLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05/mul_table_usingforloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05/problem_statement_forloop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_04/switchCondition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_04/switchCondition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics_04/switchCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_04/switchCondition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/ternaryOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/ternaryOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_04/problemStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_04/problemStatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics_03/ternaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_03/ternaryOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics_04/problemStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_04/problemStatement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +58,7 @@
     "Application.conditionAndLoops.executor": "Run",
     "Application.constant.executor": "Run",
     "Application.decrementOperator.executor": "Run",
+    "Application.forLoop.executor": "Run",
     "Application.formatting.executor": "Run",
     "Application.formattingUsingSOF.executor": "Run",
     "Application.functionofstring.executor": "Run",
@@ -59,7 +66,9 @@
     "Application.ifLoops.executor": "Run",
     "Application.ifloop.executor": "Run",
     "Application.incrementOperator.executor": "Run",
+    "Application.mul_table_usingforloop.executor": "Run",
     "Application.problemStatement.executor": "Run",
+    "Application.problem_statement_forloop.executor": "Run",
     "Application.switchCondition.executor": "Run",
     "Application.ternaryOperator.executor": "Run",
     "Application.triangleClassifire.executor": "Run",
@@ -75,13 +84,39 @@
     "settings.editor.selected.configurable": "fileTemplates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.switchCondition">
-    <configuration name="gradeCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_04.gradeCalculator" />
+  <component name="RunManager" selected="Application.continue_condition">
+    <configuration name="continue_condition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_05.continue_condition" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.basics_04.*" />
+          <option name="PATTERN" value="src.basics_05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="forLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_05.forLoop" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.basics_05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mul_table_usingforloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_05.mul_table_usingforloop" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.basics_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,38 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="switchCondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_04.switchCondition" />
+    <configuration name="problem_statement_forloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_05.problem_statement_forloop" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.basics_04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="triangleClassifire" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_04.triangleClassifire" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.basics_04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="vowelCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_04.vowelCheck" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.basics_04.*" />
+          <option name="PATTERN" value="src.basics_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.switchCondition" />
+        <item itemvalue="Application.continue_condition" />
+        <item itemvalue="Application.mul_table_usingforloop" />
+        <item itemvalue="Application.problem_statement_forloop" />
+        <item itemvalue="Application.forLoop" />
         <item itemvalue="Application.problemStatement" />
-        <item itemvalue="Application.vowelCheck" />
-        <item itemvalue="Application.triangleClassifire" />
-        <item itemvalue="Application.gradeCalculator" />
       </list>
     </recent_temporary>
   </component>

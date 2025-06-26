@@ -31,6 +31,13 @@ public class ternaryOperator {
         System.out.println(max);
 
 
+        int x = 10;
+        int y = 20;
+
+        int max1 = x>y ? x:y;
+        System.out.println(max1);
+
+
 
 
 
