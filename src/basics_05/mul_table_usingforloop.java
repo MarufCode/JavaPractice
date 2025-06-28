@@ -22,6 +22,15 @@ public class mul_table_usingforloop {
      }
 
 
+     for (int i = 0; i<=100; i++){
+         if (!(i%2==0)){
+             System.out.println(i+ "Number is ODD");
+         }else{
+             System.out.println(i+ "Number is even");
+         }
+     }
+
+
 
 
 
