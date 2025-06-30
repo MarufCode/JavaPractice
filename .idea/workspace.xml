@@ -5,12 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="011f0a1d-0c14-484f-b841-1abcf8439628" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basic_06/arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview_programs/even_odd_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview_programs/factorial_number.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_01/Lab01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_01/Lab01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_01/variables.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_01/variables.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_02/Operators.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_02/Operators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_02/PrimitiveDT.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_02/PrimitiveDT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_02/Tableof9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_02/Tableof9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_02/charactervariable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_02/charactervariable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_02/constantvariable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_02/constantvariable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_02/formattingUsingSOF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_02/formattingUsingSOF.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/CompoundAssignmentOper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/CompoundAssignmentOper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/ConcatenateOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/ConcatenateOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/InstanceofOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/InstanceofOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/LogicalOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/LogicalOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/RelationalOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/RelationalOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/TypeCasting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/TypeCasting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/decrementOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/decrementOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/functionofstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/functionofstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/ifloop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/ifloop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/incrementOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/incrementOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/ternaryOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/ternaryOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_04/gradeCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_04/gradeCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_04/problemStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_04/problemStatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_04/switchCondition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_04/switchCondition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_04/triangleClassifire.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_04/triangleClassifire.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_04/vowelCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_04/vowelCheck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_05/continue_condition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_05/continue_condition.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_05/do_while.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_05/do_while.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics_05/do_while.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_05/do_while.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_05/factorial_program.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_05/factorial_program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_05/forLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_05/forLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_05/mul_table_usingforloop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_05/mul_table_usingforloop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_05/problem_statement_forloop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_05/problem_statement_forloop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_05/while_loop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_05/while_loop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics_05/mul_table_usingforloop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_05/mul_table_usingforloop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +107,7 @@
     "Application.while_loop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Merging master",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
