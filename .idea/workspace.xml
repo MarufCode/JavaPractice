@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="011f0a1d-0c14-484f-b841-1abcf8439628" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basics_05/do_while.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_06/arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview_programs/even_odd_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview_programs/factorial_number.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_05/factorial_program.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_05/factorial_program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_05/do_while.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_05/do_while.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics_05/do_while.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_05/do_while.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +56,8 @@
     "Application.continue_condition.executor": "Debug",
     "Application.decrementOperator.executor": "Run",
     "Application.do_while.executor": "Run",
+    "Application.even_odd_number.executor": "Run",
+    "Application.factorial_number.executor": "Run",
     "Application.factorial_program.executor": "Run",
     "Application.forLoop.executor": "Run",
     "Application.formatting.executor": "Run",
@@ -81,20 +86,7 @@
     "settings.editor.selected.configurable": "fileTemplates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.do_while">
-    <configuration name="continue_condition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_05.continue_condition" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.basics_05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.factorial_number">
     <configuration name="do_while" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.basics_05.do_while" />
       <module name="JavaPractice" />
@@ -108,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="factorial_program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_05.factorial_program" />
+    <configuration name="even_odd_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.interview_programs.even_odd_number" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.basics_05.*" />
+          <option name="PATTERN" value="src.interview_programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,8 +113,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mul_table_usingforloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_05.mul_table_usingforloop" />
+    <configuration name="factorial_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.interview_programs.factorial_number" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.interview_programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="factorial_program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_05.factorial_program" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -149,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.factorial_number" />
+        <item itemvalue="Application.even_odd_number" />
         <item itemvalue="Application.do_while" />
         <item itemvalue="Application.factorial_program" />
         <item itemvalue="Application.while_loop" />
-        <item itemvalue="Application.continue_condition" />
-        <item itemvalue="Application.mul_table_usingforloop" />
       </list>
     </recent_temporary>
   </component>
