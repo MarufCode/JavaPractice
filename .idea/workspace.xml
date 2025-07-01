@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="011f0a1d-0c14-484f-b841-1abcf8439628" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basic_06/arrays_multi_datatype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic_06/print_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_06/array_2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_06/array_program_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_06/arrays_program_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_06/fizzBuzz_program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_06/leap_year.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_05/mul_table_usingforloop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_05/mul_table_usingforloop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic_06/arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_06/arrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +50,11 @@
     "Application.RelationalOperator.executor": "Run",
     "Application.Tableof9.executor": "Run",
     "Application.TypeCasting.executor": "Run",
+    "Application.array_2D.executor": "Run",
+    "Application.array_program_2.executor": "Run",
     "Application.arrays.executor": "Run",
     "Application.arrays_multi_datatype.executor": "Run",
+    "Application.arrays_program.executor": "Run",
     "Application.charactervariable.executor": "Run",
     "Application.conditionAndLoops.executor": "Run",
     "Application.constant.executor": "Run",
@@ -62,6 +64,7 @@
     "Application.even_odd_number.executor": "Run",
     "Application.factorial_number.executor": "Run",
     "Application.factorial_program.executor": "Run",
+    "Application.fizzBuzz_program.executor": "Run",
     "Application.forLoop.executor": "Run",
     "Application.formatting.executor": "Run",
     "Application.formattingUsingSOF.executor": "Run",
@@ -70,6 +73,7 @@
     "Application.ifLoops.executor": "Run",
     "Application.ifloop.executor": "Run",
     "Application.incrementOperator.executor": "Run",
+    "Application.leap_year.executor": "Run",
     "Application.mul_table_usingforloop.executor": "Run",
     "Application.print_array.executor": "Run",
     "Application.problemStatement.executor": "Run",
@@ -90,9 +94,9 @@
     "settings.editor.selected.configurable": "fileTemplates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.arrays_multi_datatype">
-    <configuration name="arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basic_06.arrays" />
+  <component name="RunManager" selected="Application.array_2D">
+    <configuration name="array_2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basic_06.array_2D" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -104,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arrays_multi_datatype" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basic_06.arrays_multi_datatype" />
+    <configuration name="array_program_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basic_06.array_program_2" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -117,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="even_odd_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.interview_programs.even_odd_number" />
+    <configuration name="arrays_program_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basic_06.arrays_program_1" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.interview_programs.*" />
+          <option name="PATTERN" value="src.basic_06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="factorial_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.interview_programs.factorial_number" />
+    <configuration name="fizzBuzz_program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basic_06.fizzBuzz_program" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.interview_programs.*" />
+          <option name="PATTERN" value="src.basic_06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,8 +147,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="print_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basic_06.print_array" />
+    <configuration name="leap_year" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basic_06.leap_year" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -158,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.arrays_multi_datatype" />
-        <item itemvalue="Application.print_array" />
-        <item itemvalue="Application.arrays" />
-        <item itemvalue="Application.factorial_number" />
-        <item itemvalue="Application.even_odd_number" />
+        <item itemvalue="Application.array_2D" />
+        <item itemvalue="Application.leap_year" />
+        <item itemvalue="Application.fizzBuzz_program" />
+        <item itemvalue="Application.array_program_2" />
+        <item itemvalue="Application.arrays_program_1" />
       </list>
     </recent_temporary>
   </component>
