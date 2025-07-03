@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="011f0a1d-0c14-484f-b841-1abcf8439628" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/interview_programs/fizz_program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic_06/arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic_06/arrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,56 +35,64 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CompoundAssignmentOper.executor": "Run",
-    "Application.ConcatenateOperator.executor": "Run",
-    "Application.InstanceofOperator.executor": "Run",
-    "Application.Lab01.executor": "Run",
-    "Application.LogicalOperator.executor": "Run",
-    "Application.Operators.executor": "Run",
-    "Application.RelationalOperator.executor": "Run",
-    "Application.Tableof9.executor": "Run",
-    "Application.TypeCasting.executor": "Run",
-    "Application.charactervariable.executor": "Run",
-    "Application.conditionAndLoops.executor": "Run",
-    "Application.constant.executor": "Run",
-    "Application.continue_condition.executor": "Debug",
-    "Application.decrementOperator.executor": "Run",
-    "Application.do_while.executor": "Run",
-    "Application.even_odd_number.executor": "Run",
-    "Application.factorial_number.executor": "Run",
-    "Application.factorial_program.executor": "Run",
-    "Application.forLoop.executor": "Run",
-    "Application.formatting.executor": "Run",
-    "Application.formattingUsingSOF.executor": "Run",
-    "Application.functionofstring.executor": "Run",
-    "Application.gradeCalculator.executor": "Run",
-    "Application.ifLoops.executor": "Run",
-    "Application.ifloop.executor": "Run",
-    "Application.incrementOperator.executor": "Run",
-    "Application.mul_table_usingforloop.executor": "Run",
-    "Application.problemStatement.executor": "Run",
-    "Application.problem_statement_forloop.executor": "Run",
-    "Application.switchCondition.executor": "Run",
-    "Application.ternaryOperator.executor": "Run",
-    "Application.triangleClassifire.executor": "Run",
-    "Application.variables.executor": "Run",
-    "Application.vowelCheck.executor": "Run",
-    "Application.while_loop.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "fileTemplates"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CompoundAssignmentOper.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConcatenateOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InstanceofOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LogicalOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RelationalOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tableof9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TypeCasting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.array_2D.executor&quot;: &quot;Run&quot;,
+    &quot;Application.array_program_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.arrays_multi_datatype.executor&quot;: &quot;Run&quot;,
+    &quot;Application.arrays_program.executor&quot;: &quot;Run&quot;,
+    &quot;Application.charactervariable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.conditionAndLoops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.constant.executor&quot;: &quot;Run&quot;,
+    &quot;Application.continue_condition.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.decrementOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.do_while.executor&quot;: &quot;Run&quot;,
+    &quot;Application.even_odd_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.factorial_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.factorial_program.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fizzBuzz_program.executor&quot;: &quot;Run&quot;,
+    &quot;Application.forLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.formatting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.formattingUsingSOF.executor&quot;: &quot;Run&quot;,
+    &quot;Application.functionofstring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.gradeCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ifLoops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ifloop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.incrementOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.leap_year.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mul_table_usingforloop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.print_array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problemStatement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problem_statement_forloop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.switchCondition.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ternaryOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.triangleClassifire.executor&quot;: &quot;Run&quot;,
+    &quot;Application.variables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.vowelCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.while_loop.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.arrays">
-    <configuration name="arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basic_06.arrays" />
+}</component>
+  <component name="RunManager" selected="Application.fizz_program">
+    <configuration name="array_2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basic_06.array_2D" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -96,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="do_while" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_05.do_while" />
+    <configuration name="array_program_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basic_06.array_program_2" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.basics_05.*" />
+          <option name="PATTERN" value="src.basic_06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,8 +117,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="even_odd_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.interview_programs.even_odd_number" />
+    <configuration name="fizzBuzz_program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basic_06.fizzBuzz_program" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.basic_06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fizz_program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.interview_programs.fizz_program" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -122,25 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="factorial_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.interview_programs.factorial_number" />
+    <configuration name="leap_year" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basic_06.leap_year" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.interview_programs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="factorial_program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_05.factorial_program" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.basics_05.*" />
+          <option name="PATTERN" value="src.basic_06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.arrays" />
-        <item itemvalue="Application.factorial_number" />
-        <item itemvalue="Application.even_odd_number" />
-        <item itemvalue="Application.do_while" />
-        <item itemvalue="Application.factorial_program" />
+        <item itemvalue="Application.fizz_program" />
+        <item itemvalue="Application.array_2D" />
+        <item itemvalue="Application.leap_year" />
+        <item itemvalue="Application.fizzBuzz_program" />
+        <item itemvalue="Application.array_program_2" />
       </list>
     </recent_temporary>
   </component>
