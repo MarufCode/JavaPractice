@@ -16,6 +16,7 @@ public class functions_in_java {
 
         hello();    //  Call to the function
         sayhello4times(); // calling the function
+        sayhello4times(); // calling the function
 
     }
 

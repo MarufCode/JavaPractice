@@ -5,11 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="011f0a1d-0c14-484f-b841-1abcf8439628" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Oops_concept/functions_in_java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_concept/create_function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview_programs/main_method_argument_change.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/interview_programs/leap_year.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/interview_programs/leap_year.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview_programs/leap_year.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview_programs/leap_year.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/Oops_concept/functions_in_java.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/Oops_concept/functions_in_java.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_01/Lab01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_01/Lab01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_01/variables.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_01/variables.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_02/Operators.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_02/Operators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_02/PrimitiveDT.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_02/PrimitiveDT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_02/Tableof9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_02/Tableof9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_02/charactervariable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_02/charactervariable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_02/constantvariable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_02/constantvariable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_02/formattingUsingSOF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_02/formattingUsingSOF.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/CompoundAssignmentOper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/CompoundAssignmentOper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/ConcatenateOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/ConcatenateOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/InstanceofOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/InstanceofOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/LogicalOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/LogicalOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/RelationalOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/RelationalOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/TypeCasting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/TypeCasting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/decrementOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/decrementOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/functionofstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/functionofstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/ifloop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/ifloop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/incrementOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/incrementOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/ternaryOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/ternaryOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_04/gradeCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_04/gradeCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_04/problemStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_04/problemStatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_04/switchCondition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_04/switchCondition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_04/triangleClassifire.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_04/triangleClassifire.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_04/vowelCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_04/vowelCheck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_05/continue_condition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_05/continue_condition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_05/do_while.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_05/do_while.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_05/factorial_program.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_05/factorial_program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_05/forLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_05/forLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_05/problem_statement_forloop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_05/problem_statement_forloop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_05/while_loop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_05/while_loop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops_concept/functions_in_java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops_concept/functions_in_java.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +89,7 @@
     "Application.conditionAndLoops.executor": "Run",
     "Application.constant.executor": "Run",
     "Application.continue_condition.executor": "Debug",
+    "Application.create_function.executor": "Run",
     "Application.decrementOperator.executor": "Run",
     "Application.do_while.executor": "Run",
     "Application.even_odd_number.executor": "Run",
@@ -69,12 +101,14 @@
     "Application.formatting.executor": "Run",
     "Application.formattingUsingSOF.executor": "Run",
     "Application.functionofstring.executor": "Run",
+    "Application.functions.executor": "Run",
     "Application.functions_in_java.executor": "Run",
     "Application.gradeCalculator.executor": "Run",
     "Application.ifLoops.executor": "Run",
     "Application.ifloop.executor": "Run",
     "Application.incrementOperator.executor": "Run",
     "Application.leap_year.executor": "Run",
+    "Application.main_method_argument_change.executor": "Run",
     "Application.mul_table_usingforloop.executor": "Run",
     "Application.print_array.executor": "Run",
     "Application.problemStatement.executor": "Run",
@@ -96,13 +130,13 @@
     "settings.editor.selected.configurable": "fileTemplates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.functions_in_java">
-    <configuration name="array_2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basic_06.array_2D" />
+  <component name="RunManager" selected="Application.main_method_argument_change">
+    <configuration name="create_function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Oops_concept.create_function" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.basic_06.*" />
+          <option name="PATTERN" value="src.Oops_concept.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fizz_program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.interview_programs.fizz_program" />
+    <configuration name="functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Oops_concept.functions" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.interview_programs.*" />
+          <option name="PATTERN" value="src.Oops_concept.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leap_year" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basic_06.leap_year" />
+    <configuration name="main_method_argument_change" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.interview_programs.main_method_argument_change" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.basic_06.*" />
+          <option name="PATTERN" value="src.interview_programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main_method_argument_change" />
+        <item itemvalue="Application.create_function" />
+        <item itemvalue="Application.functions" />
         <item itemvalue="Application.functions_in_java" />
         <item itemvalue="Application.src.interview_programs.leap_year" />
-        <item itemvalue="Application.fizz_program" />
-        <item itemvalue="Application.array_2D" />
-        <item itemvalue="Application.leap_year" />
       </list>
     </recent_temporary>
   </component>
