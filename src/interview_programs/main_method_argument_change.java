@@ -13,6 +13,7 @@ public class main_method_argument_change {
         int  d = main(10);
         System.out.println(d);
         main("MARUF");
+        print("Hi, it will print and looks like python");
 
     }
 
@@ -23,6 +24,10 @@ public class main_method_argument_change {
     static int main (int a){
 //        System.out.println(a + "Wil Print");
         return 99;
+    }
+
+    static void print(String s){
+        System.out.println(s);
     }
 
 }
