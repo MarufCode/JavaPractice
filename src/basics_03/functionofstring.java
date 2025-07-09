@@ -15,7 +15,7 @@ public class functionofstring {
 
         String name2 = new String("Mahi bhai");  // OA or Heap Area
 //
-//        System.out.println(name==name1);
+        System.out.println(name==name1);
 //        System.out.println(name.equals(name1));
 
 //        System.out.println(name==name2);

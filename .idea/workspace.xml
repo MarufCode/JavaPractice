@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="011f0a1d-0c14-484f-b841-1abcf8439628" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/interview_programs/diagonal_element_2D_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview_programs/prime_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview_programs/string_reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview_programs/swapping_two_numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview_programs/take_input_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_concept/StringBuilder_StringBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_concept/string_functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_concept/string_immutable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/interview_programs/main_method_argument_change.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/interview_programs/main_method_argument_change.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interview_programs/main_method_argument_change.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview_programs/main_method_argument_change.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/functionofstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/functionofstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics_03/functionofstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_03/functionofstring.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +48,7 @@
     "Application.LogicalOperator.executor": "Run",
     "Application.Operators.executor": "Run",
     "Application.RelationalOperator.executor": "Run",
+    "Application.StringBuilder_StringBuffer.executor": "Run",
     "Application.Tableof9.executor": "Run",
     "Application.TypeCasting.executor": "Run",
     "Application.array_2D.executor": "Run",
@@ -89,6 +87,8 @@
     "Application.problemStatement.executor": "Run",
     "Application.problem_statement_forloop.executor": "Run",
     "Application.src.interview_programs.leap_year.executor": "Run",
+    "Application.string_functions.executor": "Run",
+    "Application.string_immutable.executor": "Run",
     "Application.string_reverse.executor": "Run",
     "Application.swapping_two_numbers.executor": "Run",
     "Application.switchCondition.executor": "Run",
@@ -108,13 +108,13 @@
     "settings.editor.selected.configurable": "fileTemplates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.string_reverse">
-    <configuration name="diagonal_element_2D_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.interview_programs.diagonal_element_2D_array" />
+  <component name="RunManager" selected="Application.StringBuilder_StringBuffer">
+    <configuration name="StringBuilder_StringBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Oops_concept.StringBuilder_StringBuffer" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.interview_programs.*" />
+          <option name="PATTERN" value="src.Oops_concept.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +122,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="prime_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.interview_programs.prime_number" />
+    <configuration name="functionofstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_03.functionofstring" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.interview_programs.*" />
+          <option name="PATTERN" value="src.basics_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="string_functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Oops_concept.string_functions" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Oops_concept.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="string_immutable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Oops_concept.string_immutable" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Oops_concept.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,39 +174,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="swapping_two_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.interview_programs.swapping_two_numbers" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.interview_programs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="take_input_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.interview_programs.take_input_array" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.interview_programs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringBuilder_StringBuffer" />
+        <item itemvalue="Application.string_functions" />
+        <item itemvalue="Application.functionofstring" />
+        <item itemvalue="Application.string_immutable" />
         <item itemvalue="Application.string_reverse" />
-        <item itemvalue="Application.prime_number" />
-        <item itemvalue="Application.diagonal_element_2D_array" />
-        <item itemvalue="Application.take_input_array" />
-        <item itemvalue="Application.swapping_two_numbers" />
       </list>
     </recent_temporary>
   </component>
