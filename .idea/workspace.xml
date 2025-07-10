@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="011f0a1d-0c14-484f-b841-1abcf8439628" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Oops_concept/StringBuilder_StringBuffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_concept/string_functions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oops_concept/string_immutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops_concept/reverse_string_using_stringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview_programs/chech_palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview_programs/reverse_string_using_stringBuilder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/functionofstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/basics_03/functionofstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics_03/functionofstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_03/functionofstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/Oops_concept/StringBuilder_StringBuffer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/Oops_concept/StringBuilder_StringBuffer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oops_concept/StringBuilder_StringBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops_concept/StringBuilder_StringBuffer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +58,7 @@
     "Application.arrays_multi_datatype.executor": "Run",
     "Application.arrays_program.executor": "Run",
     "Application.charactervariable.executor": "Run",
+    "Application.chech_palindrome.executor": "Run",
     "Application.conditionAndLoops.executor": "Run",
     "Application.constant.executor": "Run",
     "Application.continue_condition.executor": "Debug",
@@ -82,11 +84,14 @@
     "Application.leap_year.executor": "Run",
     "Application.main_method_argument_change.executor": "Run",
     "Application.mul_table_usingforloop.executor": "Run",
+    "Application.palindrome.executor": "Run",
     "Application.prime_number.executor": "Run",
     "Application.print_array.executor": "Run",
     "Application.problemStatement.executor": "Run",
     "Application.problem_statement_forloop.executor": "Run",
+    "Application.reverse_string_using_stringBuilder.executor": "Run",
     "Application.src.interview_programs.leap_year.executor": "Run",
+    "Application.src.interview_programs.reverse_string_using_stringBuilder.executor": "Run",
     "Application.string_functions.executor": "Run",
     "Application.string_immutable.executor": "Run",
     "Application.string_reverse.executor": "Run",
@@ -108,7 +113,12 @@
     "settings.editor.selected.configurable": "fileTemplates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StringBuilder_StringBuffer">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="src.interview_programs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.chech_palindrome">
     <configuration name="StringBuilder_StringBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Oops_concept.StringBuilder_StringBuffer" />
       <module name="JavaPractice" />
@@ -122,12 +132,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="functionofstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_03.functionofstring" />
+    <configuration name="chech_palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.interview_programs.chech_palindrome" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.basics_03.*" />
+          <option name="PATTERN" value="src.interview_programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverse_string_using_stringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Oops_concept.reverse_string_using_stringBuilder" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Oops_concept.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="src.interview_programs.reverse_string_using_stringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.interview_programs.reverse_string_using_stringBuilder" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.interview_programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,39 +184,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="string_immutable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Oops_concept.string_immutable" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.Oops_concept.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="string_reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.interview_programs.string_reverse" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.interview_programs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.chech_palindrome" />
+        <item itemvalue="Application.src.interview_programs.reverse_string_using_stringBuilder" />
+        <item itemvalue="Application.reverse_string_using_stringBuilder" />
         <item itemvalue="Application.StringBuilder_StringBuffer" />
         <item itemvalue="Application.string_functions" />
-        <item itemvalue="Application.functionofstring" />
-        <item itemvalue="Application.string_immutable" />
-        <item itemvalue="Application.string_reverse" />
       </list>
     </recent_temporary>
   </component>

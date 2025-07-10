@@ -4,17 +4,24 @@ public class StringBuilder_StringBuffer {
     public static void main(String[] args) {
 
 
-        // Immutable (That can not be changed)
+        // Immutable in nature (That can not be changed)
         String s1 = "Maruf";
         String s2 = new String("Mruf");
 
 
 
-        // Mutable (That can be changed)
+        // Mutable in nature (That can be changed)
         StringBuilder s3 = new StringBuilder("Sherikar");
         s3.append(" Maruf");
 //        s3.append(" Mumbai");
         System.out.println(s3);
+
+
+        StringBuffer sbf = new StringBuffer("Maruf");
+        sbf.append(" Sherikar");
+        System.out.println(sbf);
+
+
 
 
 
