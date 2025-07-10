@@ -1,4 +1,4 @@
-package src.Oops_concept;
+package src.StringANDfunction_concept;
 
 public class StringBuilder_StringBuffer {
     public static void main(String[] args) {
@@ -22,7 +22,17 @@ public class StringBuilder_StringBuffer {
         System.out.println(sbf);
 
 
+        // String buffer is thread safe and StringBuilder is not Thread safe
 
+        // Thread safe:
+        // Thread safe means lets suppose we are two brother and we have only one bat so what will happen is
+        // we will fight with each other for bat so in that case my mom comes in ad she is like StringBuffer
+        // and she will say that when i am using the bat my brother can not use and vice versa
+
+
+        // String buffer are slow compared to StringBuilder
+
+        // people generally use StringBuilder
 
 
 

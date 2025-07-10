@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="011f0a1d-0c14-484f-b841-1abcf8439628" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Oops_concept/reverse_string_using_stringBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview_programs/chech_palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview_programs/reverse_string_using_stringBuilder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/Oops_concept/StringBuilder_StringBuffer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/Oops_concept/StringBuilder_StringBuffer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Oops_concept/StringBuilder_StringBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oops_concept/StringBuilder_StringBuffer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

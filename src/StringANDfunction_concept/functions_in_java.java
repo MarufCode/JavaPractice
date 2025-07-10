@@ -1,6 +1,4 @@
-package src.Oops_concept;
-
-import java.util.Scanner;
+package src.StringANDfunction_concept;
 
 public class functions_in_java {
     public static void main(String[] args) {
