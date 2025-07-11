@@ -6,6 +6,7 @@ public class person {
     // Attribute
 
     String name;
+
     int age;
 
     String email;
