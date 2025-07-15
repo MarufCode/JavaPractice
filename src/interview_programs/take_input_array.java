@@ -8,7 +8,7 @@ public class take_input_array {
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the size");
-        int n =sc.nextInt();
+        int n = sc.nextInt();
 
         int []int_array = new int[n];
 
