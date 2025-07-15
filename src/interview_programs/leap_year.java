@@ -12,18 +12,36 @@ public class leap_year {
         // but not by 100 unless it is also divisible by 400
 
 
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the number and i will tell that is leap year or not");
+//        Scanner sc = new Scanner(System.in);
+//        System.out.println("Enter the number and i will tell that is leap year or not");
+//
+//        int year = sc.nextInt();
+//
+//        if ((year%4==0 && year%100!=0) || (year%400==0)){
+//            System.out.println(year + " Is Leap year");
+//        }else{
+//            System.out.println(year + " Is Not a leap year");
+//        }
+//
+//
 
+
+
+
+
+
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the number");
         int year = sc.nextInt();
 
+
+
+
         if ((year%4==0 && year%100!=0) || (year%400==0)){
-            System.out.println(year + " Is Leap year");
+            System.out.println(year + "It is leap Year");
         }else{
-            System.out.println(year + " Is Not a leap year");
+            System.out.println(year + "It is not Leap year");
         }
-
-
 
 
 

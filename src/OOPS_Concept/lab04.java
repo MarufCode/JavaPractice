@@ -11,7 +11,7 @@ public class lab04 {
         System.out.println(tes.name);
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the name & number");
+    System.out.println("Enter the name & number");
         tes.name = sc.next();
         tes.Experience = sc.nextInt();
         tes.AT();

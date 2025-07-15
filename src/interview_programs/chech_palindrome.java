@@ -34,7 +34,7 @@ public class chech_palindrome {
 
         // Using for Loop
 
-
+//
 //            Scanner scanner  = new Scanner(System.in);
 //            System.out.println("Enter the string");
 //            String user_input = scanner.next();
@@ -71,8 +71,29 @@ public class chech_palindrome {
 //            System.out.println("Not a Palindrome");
 //        }
 
-
-
+//
+//           Scanner sc = new Scanner(System.in);
+//           System.out.println("Enter the value");
+//           String input = sc.next();
+//           input = input.toLowerCase();
+//           String temp = "";
+//
+//
+//
+//           for (int i = input.length()-1; i>=0;i--){
+//               temp = temp + input.charAt(i);
+//           }
+//
+//           if (input.equalsIgnoreCase(temp)){
+//               System.out.println("Palindrome");
+//
+//           }else{
+//               System.out.println("Not Palindrome");
+//           }
+//
+//
+//
+//
 
 
 

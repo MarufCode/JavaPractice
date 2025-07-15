@@ -32,6 +32,25 @@ public class diagonal_element_2D_array {
         }
 
 
+        int [][] array2D = new int[3][3];
+
+
+        array_2D [0][0] = 100;
+        array_2D [0][1] = 2;
+        array_2D [0][2] = 3;
+        array_2D [1][0] = 4;
+        array_2D [1][1] = 500;
+        array_2D [1][2] = 6;
+        array_2D [2][0] = 7;
+        array_2D [2][1] = 7;
+        array_2D [2][2] = 700;
+
+
+        for (int i = 0; i <array2D.length ; i++) {
+            System.out.println(array2D[i][i]);
+
+        }
+
 
 
 
