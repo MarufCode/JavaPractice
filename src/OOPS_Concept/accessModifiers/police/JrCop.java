@@ -1,6 +1,6 @@
 package src.OOPS_Concept.accessModifiers.police;
 
-public class JuniorCop {
+public class JrCop {
 
     public static void main(String[] args) {
 

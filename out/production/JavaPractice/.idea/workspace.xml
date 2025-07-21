@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="011f0a1d-0c14-484f-b841-1abcf8439628" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OOPS_Concept/Encapsulation/BadExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_Concept/Encapsulation/PersonS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_Concept/Encapsulation/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_Concept/Encapsulation/lab14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_Concept/Encapsulation/ICICIBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS_Concept/Encapsulation/lab16.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPS_Concept/accessModifiers/police/JuniorCop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS_Concept/accessModifiers/police/JrCop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,10 +39,12 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.BadExample.executor&quot;: &quot;Run&quot;,
     &quot;Application.CompoundAssignmentOper.executor&quot;: &quot;Run&quot;,
     &quot;Application.ComputerRunnerClass.executor&quot;: &quot;Run&quot;,
     &quot;Application.ConcatenateOperator.executor&quot;: &quot;Run&quot;,
     &quot;Application.InstanceofOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JuniorCop.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lab01.executor&quot;: &quot;Run&quot;,
     &quot;Application.LogicalOperator.executor&quot;: &quot;Run&quot;,
     &quot;Application.MumbaiRunnerClass.executor&quot;: &quot;Run&quot;,
@@ -95,6 +96,7 @@
     &quot;Application.lab12.executor&quot;: &quot;Run&quot;,
     &quot;Application.lab13.executor&quot;: &quot;Run&quot;,
     &quot;Application.lab14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab15.executor&quot;: &quot;Run&quot;,
     &quot;Application.leap_year.executor&quot;: &quot;Run&quot;,
     &quot;Application.main_method_argument_change.executor&quot;: &quot;Run&quot;,
     &quot;Application.mul_table_usingforloop.executor&quot;: &quot;Run&quot;,
@@ -116,6 +118,7 @@
     &quot;Application.switchCondition.executor&quot;: &quot;Run&quot;,
     &quot;Application.take_input_array.executor&quot;: &quot;Run&quot;,
     &quot;Application.ternaryOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.thief.executor&quot;: &quot;Run&quot;,
     &quot;Application.triangleClassifire.executor&quot;: &quot;Run&quot;,
     &quot;Application.variables.executor&quot;: &quot;Run&quot;,
     &quot;Application.vowelCheck.executor&quot;: &quot;Run&quot;,
@@ -135,7 +138,7 @@
       <recent name="src.interview_programs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BadExample">
+  <component name="RunManager" selected="Application.lab16">
     <configuration name="BadExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.OOPS_Concept.Encapsulation.BadExample" />
       <module name="JavaPractice" />
@@ -149,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComputerRunnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.OOPS_Concept.Inheritance.MultiLevel.ComputerRunnerClass" />
+    <configuration name="JrCop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.OOPS_Concept.accessModifiers.police.JrCop" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.OOPS_Concept.Inheritance.MultiLevel.*" />
+          <option name="PATTERN" value="src.OOPS_Concept.accessModifiers.police.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SocialMediaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.OOPS_Concept.Constructor.SocialMediaMain" />
+    <configuration name="lab15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.OOPS_Concept.Encapsulation.lab15" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.OOPS_Concept.Constructor.*" />
+          <option name="PATTERN" value="src.OOPS_Concept.Encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,12 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="src.OOPS_Concept.ImpClassMembers.RunnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.OOPS_Concept.ImpClassMembers.RunnerClass" />
+    <configuration name="lab16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.OOPS_Concept.Encapsulation.lab16" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.OOPS_Concept.ImpClassMembers.*" />
+          <option name="PATTERN" value="src.OOPS_Concept.Encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,12 +191,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="src.OOPS_Concept.Inheritance.Hierarchical.RunnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.OOPS_Concept.Inheritance.Hierarchical.RunnerClass" />
+    <configuration name="thief" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.OOPS_Concept.accessModifiers.criminal.thief" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.OOPS_Concept.Inheritance.Hierarchical.*" />
+          <option name="PATTERN" value="src.OOPS_Concept.accessModifiers.criminal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lab16" />
+        <item itemvalue="Application.JrCop" />
+        <item itemvalue="Application.thief" />
+        <item itemvalue="Application.lab15" />
         <item itemvalue="Application.BadExample" />
-        <item itemvalue="Application.src.OOPS_Concept.ImpClassMembers.RunnerClass" />
-        <item itemvalue="Application.SocialMediaMain" />
-        <item itemvalue="Application.src.OOPS_Concept.Inheritance.Hierarchical.RunnerClass" />
-        <item itemvalue="Application.ComputerRunnerClass" />
       </list>
     </recent_temporary>
   </component>
