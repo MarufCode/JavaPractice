@@ -6,7 +6,7 @@ public class person {
     // method overloading -> multiple method name with same name , but different argument
 
     void speak(String a){
-        System.out.println("A is a Byte " + a);
+        System.out.println("A is a String " + a);
     }
 
     int speak(int x ){
