@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="011f0a1d-0c14-484f-b841-1abcf8439628" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/innerclass/lab17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerclass/lab18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerclass/lab19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerclass/lab20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/innerclass/lab21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/checked/lab26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/lab27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/lab28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/unchecked/lab25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/innerclass/lab22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wrapperclass/lab23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wrapperclass/lab24.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -116,6 +118,13 @@
     "Application.lab18.executor": "Run",
     "Application.lab19.executor": "Run",
     "Application.lab20.executor": "Run",
+    "Application.lab21.executor": "Run",
+    "Application.lab22.executor": "Run",
+    "Application.lab24.executor": "Run",
+    "Application.lab25.executor": "Run",
+    "Application.lab26.executor": "Run",
+    "Application.lab27.executor": "Run",
+    "Application.lab28.executor": "Run",
     "Application.leap_year.executor": "Run",
     "Application.main_method_argument_change.executor": "Run",
     "Application.mul_table_usingforloop.executor": "Run",
@@ -159,13 +168,13 @@
       <recent name="src.interview_programs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lab21">
-    <configuration name="lab17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.innerclass.lab17" />
+  <component name="RunManager" selected="Application.lab28">
+    <configuration name="lab24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.wrapperclass.lab24" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.innerclass.*" />
+          <option name="PATTERN" value="src.wrapperclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,12 +182,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.innerclass.lab18" />
+    <configuration name="lab25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.exceptions.unchecked.lab25" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.innerclass.*" />
+          <option name="PATTERN" value="src.exceptions.unchecked.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,12 +195,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.innerclass.lab19" />
+    <configuration name="lab26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.exceptions.checked.lab26" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.innerclass.*" />
+          <option name="PATTERN" value="src.exceptions.checked.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,12 +208,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.innerclass.lab20" />
+    <configuration name="lab27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.exceptions.lab27" />
       <module name="JavaPractice" />
+      <option name="PROGRAM_PARAMETERS" value="5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.innerclass.*" />
+          <option name="PATTERN" value="src.exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,12 +222,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.innerclass.lab21" />
+    <configuration name="lab28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.exceptions.lab28" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.innerclass.*" />
+          <option name="PATTERN" value="src.exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,13 +235,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.lab28" />
+      <item itemvalue="Application.lab24" />
+      <item itemvalue="Application.lab25" />
+      <item itemvalue="Application.lab26" />
+      <item itemvalue="Application.lab27" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lab21" />
-        <item itemvalue="Application.lab20" />
-        <item itemvalue="Application.lab19" />
-        <item itemvalue="Application.lab18" />
-        <item itemvalue="Application.lab17" />
+        <item itemvalue="Application.lab28" />
+        <item itemvalue="Application.lab27" />
+        <item itemvalue="Application.lab26" />
+        <item itemvalue="Application.lab25" />
+        <item itemvalue="Application.lab24" />
       </list>
     </recent_temporary>
   </component>
