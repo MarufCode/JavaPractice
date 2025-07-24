@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="011f0a1d-0c14-484f-b841-1abcf8439628" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/staticKeyword/RC_Static.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/staticKeyword/staticDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/innerclass/lab17.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +55,7 @@
     &quot;Application.MumbaiRunnerClass.executor&quot;: &quot;Run&quot;,
     &quot;Application.Operators.executor&quot;: &quot;Run&quot;,
     &quot;Application.RC.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RC_Static.executor&quot;: &quot;Run&quot;,
     &quot;Application.RelationalOperator.executor&quot;: &quot;Run&quot;,
     &quot;Application.RunnerClass.executor&quot;: &quot;Run&quot;,
     &quot;Application.SocialMediaMain.executor&quot;: &quot;Run&quot;,
@@ -150,7 +150,7 @@
       <recent name="src.interview_programs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RC_Static">
+  <component name="RunManager" selected="Application.lab17">
     <configuration name="CarRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.OOPS_Concept.Abstraction.interfaces.realtimeexample.CarRun" />
       <module name="JavaPractice" />
@@ -170,19 +170,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="src.OOPS_Concept.Abstraction.interfaces.realtimeexample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.OOPS_Concept.Abstraction.RC" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.OOPS_Concept.Abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,13 +203,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lab17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.innerclass.lab17" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.innerclass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lab17" />
         <item itemvalue="Application.RC_Static" />
         <item itemvalue="Application.FatherRun" />
         <item itemvalue="Application.CarRun" />
         <item itemvalue="Application.T1" />
-        <item itemvalue="Application.RC" />
       </list>
     </recent_temporary>
   </component>
