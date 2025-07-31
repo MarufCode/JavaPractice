@@ -5,13 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="011f0a1d-0c14-484f-b841-1abcf8439628" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/ListExample01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/arrayListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/arrayListExample02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/linkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/restrictData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/List/lab31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/List/lab32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/List/lab33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/Set/lab34.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/CollectionFramework/linkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/CollectionFramework/linkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionFramework/ListExample01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionFramework/List/ListExample01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionFramework/arrayListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionFramework/List/arrayListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionFramework/arrayListExample02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionFramework/List/arrayListExample02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionFramework/linkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionFramework/List/linkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionFramework/restrictData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionFramework/List/restrictData.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,6 +133,9 @@
     "Application.lab28.executor": "Run",
     "Application.lab29.executor": "Run",
     "Application.lab30.executor": "Run",
+    "Application.lab31.executor": "Run",
+    "Application.lab32.executor": "Run",
+    "Application.lab33.executor": "Run",
     "Application.leap_year.executor": "Run",
     "Application.linkedList.executor": "Run",
     "Application.main_method_argument_change.executor": "Run",
@@ -176,13 +184,13 @@
       <recent name="src.interview_programs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.linkedList">
-    <configuration name="ListExample01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.CollectionFramework.ListExample01" />
+  <component name="RunManager" selected="Application.lab33">
+    <configuration name="lab31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.CollectionFramework.List.lab31" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.CollectionFramework.*" />
+          <option name="PATTERN" value="src.CollectionFramework.List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,12 +198,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCustomException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.exceptions.Custom_Exception.TestCustomException" />
+    <configuration name="lab32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.CollectionFramework.List.lab32" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.exceptions.Custom_Exception.*" />
+          <option name="PATTERN" value="src.CollectionFramework.List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,12 +211,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.CollectionFramework.arrayListExample" />
+    <configuration name="lab33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.CollectionFramework.List.lab33" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.CollectionFramework.*" />
+          <option name="PATTERN" value="src.CollectionFramework.List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,11 +225,11 @@
       </method>
     </configuration>
     <configuration name="linkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.CollectionFramework.linkedList" />
+      <option name="MAIN_CLASS_NAME" value="src.CollectionFramework.List.linkedList" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.CollectionFramework.*" />
+          <option name="PATTERN" value="src.CollectionFramework.List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,11 +238,11 @@
       </method>
     </configuration>
     <configuration name="restrictData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.CollectionFramework.restrictData" />
+      <option name="MAIN_CLASS_NAME" value="src.CollectionFramework.List.restrictData" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.CollectionFramework.*" />
+          <option name="PATTERN" value="src.CollectionFramework.List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,19 +251,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ListExample01" />
-      <item itemvalue="Application.arrayListExample02" />
+      <item itemvalue="Application.lab31" />
+      <item itemvalue="Application.lab32" />
+      <item itemvalue="Application.lab33" />
       <item itemvalue="Application.linkedList" />
       <item itemvalue="Application.restrictData" />
-      <item itemvalue="Application.TestCustomException" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lab33" />
+        <item itemvalue="Application.lab32" />
+        <item itemvalue="Application.lab31" />
         <item itemvalue="Application.linkedList" />
         <item itemvalue="Application.restrictData" />
-        <item itemvalue="Application.arrayListExample02" />
-        <item itemvalue="Application.ListExample01" />
-        <item itemvalue="Application.TestCustomException" />
       </list>
     </recent_temporary>
   </component>

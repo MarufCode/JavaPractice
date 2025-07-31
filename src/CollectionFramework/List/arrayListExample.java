@@ -1,20 +1,19 @@
-package src.CollectionFramework;
+package src.CollectionFramework.List;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class restrictData {
+public class arrayListExample {
     public static void main(String[] args) {
 
         // Collection Framework
 
-        // Restrict the data with diamond Operator
-
-        List <String> mylist = new ArrayList();
+        List mylist = new ArrayList();
         mylist.add("Maruf");
         mylist.add("Vicky");
-//        mylist.add(true);
-//        mylist.add(123);
+        mylist.add(true);
+        mylist.add(123);
+
         System.out.println(mylist);
 
         mylist.set(1, "Nasir");
@@ -29,10 +28,7 @@ public class restrictData {
 //            System.out.println(mylist.get(i));
 //        }
 
-
-        // For each Loop
-
-        for (String o : mylist){
+        for (Object o : mylist){
             System.out.println(o);
         }
 

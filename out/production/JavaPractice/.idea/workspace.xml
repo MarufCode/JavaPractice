@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="011f0a1d-0c14-484f-b841-1abcf8439628" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/ListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/lab31.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +51,8 @@
     &quot;Application.InstanceofOperator.executor&quot;: &quot;Run&quot;,
     &quot;Application.JuniorCop.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lab01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListExample02.executor&quot;: &quot;Run&quot;,
     &quot;Application.LogicalOperator.executor&quot;: &quot;Run&quot;,
     &quot;Application.MumbaiRunnerClass.executor&quot;: &quot;Run&quot;,
     &quot;Application.Operators.executor&quot;: &quot;Run&quot;,
@@ -122,6 +124,7 @@
     &quot;Application.lab29.executor&quot;: &quot;Run&quot;,
     &quot;Application.lab30.executor&quot;: &quot;Run&quot;,
     &quot;Application.leap_year.executor&quot;: &quot;Run&quot;,
+    &quot;Application.linkedList.executor&quot;: &quot;Run&quot;,
     &quot;Application.main_method_argument_change.executor&quot;: &quot;Run&quot;,
     &quot;Application.mul_table_usingforloop.executor&quot;: &quot;Run&quot;,
     &quot;Application.palindrome.executor&quot;: &quot;Run&quot;,
@@ -130,6 +133,7 @@
     &quot;Application.print_array.executor&quot;: &quot;Run&quot;,
     &quot;Application.problemStatement.executor&quot;: &quot;Run&quot;,
     &quot;Application.problem_statement_forloop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.restrictData.executor&quot;: &quot;Run&quot;,
     &quot;Application.reverse_string_using_stringBuilder.executor&quot;: &quot;Run&quot;,
     &quot;Application.singleInheritance.executor&quot;: &quot;Run&quot;,
     &quot;Application.src.OOPS_Concept.ImpClassMembers.RunnerClass.executor&quot;: &quot;Run&quot;,
@@ -161,31 +165,19 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="src.CollectionFramework" />
       <recent name="src.int_pro_practice" />
       <recent name="src.OOPS_Concept.Abstraction.realtimeexample" />
       <recent name="src.interview_programs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ListExample">
-    <configuration name="ListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.CollectionFramework.ListExample" />
+  <component name="RunManager" selected="Application.lab31">
+    <configuration name="ListExample01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.CollectionFramework.ListExample01" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="src.CollectionFramework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.exceptions.Custom_Exception.RC" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.exceptions.Custom_Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,12 +198,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.exceptions.throw_throws.lab29" />
+    <configuration name="lab31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.CollectionFramework.lab31" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.exceptions.throw_throws.*" />
+          <option name="PATTERN" value="src.CollectionFramework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,12 +211,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.exceptions.Custom_Exception.lab30" />
+    <configuration name="linkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.CollectionFramework.linkedList" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.exceptions.Custom_Exception.*" />
+          <option name="PATTERN" value="src.CollectionFramework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="restrictData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.CollectionFramework.restrictData" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.CollectionFramework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,19 +238,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ListExample" />
-      <item itemvalue="Application.RC" />
+      <item itemvalue="Application.lab31" />
+      <item itemvalue="Application.ListExample01" />
+      <item itemvalue="Application.linkedList" />
+      <item itemvalue="Application.restrictData" />
       <item itemvalue="Application.TestCustomException" />
-      <item itemvalue="Application.lab30" />
-      <item itemvalue="Application.lab29" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ListExample" />
+        <item itemvalue="Application.lab31" />
+        <item itemvalue="Application.linkedList" />
+        <item itemvalue="Application.restrictData" />
+        <item itemvalue="Application.ListExample01" />
         <item itemvalue="Application.TestCustomException" />
-        <item itemvalue="Application.RC" />
-        <item itemvalue="Application.lab30" />
-        <item itemvalue="Application.lab29" />
       </list>
     </recent_temporary>
   </component>
