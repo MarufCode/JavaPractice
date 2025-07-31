@@ -10,15 +10,15 @@ public class factorial_number {
 
         long fact = 1;
 
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the Number");
-        int num = sc.nextInt();
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Enter the number");
+        int num = scanner.nextInt();
 
         for (int i = 1; i<=num; i++){
             fact = fact * i;
         }
-        System.out.println("fact number is " + fact);
 
+        System.out.println("Fact number is " + fact);
 
 
 

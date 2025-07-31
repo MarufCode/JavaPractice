@@ -7,22 +7,15 @@ public class even_odd_number {
 
 
         // Find the even and odd numbers from  to 100
-
-        Scanner sc = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the number");
-        int num = sc.nextInt();
+        int num = scanner.nextInt();
 
-
-            if (num %2 ==0){
-                System.out.println(num + " Is a even Number");
+            if (num%2==0){
+                System.out.println(num + " is even Number");
             }else {
-                System.out.println(num + " Is a Odd Number");
+                System.out.println(num + " is Odd Number");
             }
-
-
-
-
-
 
 
 

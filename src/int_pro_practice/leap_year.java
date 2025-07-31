@@ -13,15 +13,15 @@ public class leap_year {
 
 
 
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the year");
-        int year = sc.nextInt();
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Enter the Year");
+        int year = scanner.nextInt();
 
 
-        if ((year%4 == 0 && year%100!= 0) || (year %400 == 0)){
-            System.out.println(year + " Is leap year");
-        }else{
-            System.out.println(year + " Is not leap year");
+        if ((year%4==0 && year%100!=0) || (year%400==0)){
+            System.out.println(year + " is a leap year");
+        }else {
+            System.out.println(year + " Is not a leap year ");
         }
 
 

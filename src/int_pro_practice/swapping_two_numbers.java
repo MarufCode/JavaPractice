@@ -7,18 +7,19 @@ public class swapping_two_numbers {
 //
 //
 
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the value of a");
-        int a = sc.nextInt();
-        System.out.println("Enter the value of b");
-        int b = sc.nextInt();
+        Scanner scanner=  new Scanner(System.in);
+        System.out.println("enter the value of a ");
+        int a = scanner.nextInt();
+        System.out.println("Enter the value of b ");
+        int b = scanner.nextInt();
+
 
         a = a + b;
         b = a - b;
         a = a - b;
 
-        System.out.println(" Value of a is -> " + a);
-        System.out.println(" Value of b is -> " + b);
+        System.out.println("Value of a is -> " + a);
+        System.out.println("Value of b is -> " + b);
 
 
 
