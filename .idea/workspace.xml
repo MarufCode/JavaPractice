@@ -5,33 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="011f0a1d-0c14-484f-b841-1abcf8439628" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/int_pro_practice/primeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/Set/lab35.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/CollectionFramework/ListExample01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/CollectionFramework/arrayListExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/CollectionFramework/arrayListExample02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/CollectionFramework/lab31.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/CollectionFramework/lab32.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/CollectionFramework/lab33.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/CollectionFramework/linkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/CollectionFramework/restrictData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/int_pro_practice/diagonal_element_2D_array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/int_pro_practice/diagonal_element_2D_array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/int_pro_practice/even_odd_number.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/int_pro_practice/even_odd_number.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/int_pro_practice/factorial_number.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/int_pro_practice/factorial_number.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/int_pro_practice/fizz_program.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/int_pro_practice/fizz_program.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/int_pro_practice/leap_year.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/int_pro_practice/leap_year.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/int_pro_practice/palindrome_check.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/int_pro_practice/palindrome_check.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/int_pro_practice/string_reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/int_pro_practice/string_reverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/int_pro_practice/swapping_two_numbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/int_pro_practice/swapping_two_numbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/int_pro_practice/diagonal_element_2D_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/int_pro_practice/diagonal_element_2D_array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/int_pro_practice/even_odd_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/int_pro_practice/even_odd_number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/int_pro_practice/factorial_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/int_pro_practice/factorial_number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/int_pro_practice/fizz_program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/int_pro_practice/fizz_program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/int_pro_practice/leap_year.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/int_pro_practice/leap_year.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/int_pro_practice/palindrome_check.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/int_pro_practice/palindrome_check.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/int_pro_practice/reverse_string_using_stringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/int_pro_practice/reverse_string_using_stringBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/int_pro_practice/string_reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/int_pro_practice/string_reverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/int_pro_practice/swapping_two_numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/int_pro_practice/swapping_two_numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/CollectionFramework/Set/lab34.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/CollectionFramework/Set/lab34.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionFramework/Set/lab34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionFramework/Set/lab34.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,6 +128,8 @@
     "Application.lab31.executor": "Run",
     "Application.lab32.executor": "Run",
     "Application.lab33.executor": "Run",
+    "Application.lab34.executor": "Run",
+    "Application.lab35.executor": "Run",
     "Application.leap_year.executor": "Run",
     "Application.linkedList.executor": "Run",
     "Application.main_method_argument_change.executor": "Run",
@@ -200,13 +179,26 @@
       <recent name="src.interview_programs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.primeNumber">
-    <configuration name="palindrome_check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.int_pro_practice.palindrome_check" />
+  <component name="RunManager" selected="Application.lab35">
+    <configuration name="lab34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.CollectionFramework.Set.lab34" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.int_pro_practice.*" />
+          <option name="PATTERN" value="src.CollectionFramework.Set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.CollectionFramework.Set.lab35" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.CollectionFramework.Set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,19 +208,6 @@
     </configuration>
     <configuration name="primeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.int_pro_practice.primeNumber" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.int_pro_practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="reverse_string_using_stringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.int_pro_practice.reverse_string_using_stringBuilder" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -267,19 +246,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.palindrome_check" />
+      <item itemvalue="Application.lab34" />
+      <item itemvalue="Application.lab35" />
       <item itemvalue="Application.primeNumber" />
-      <item itemvalue="Application.reverse_string_using_stringBuilder" />
       <item itemvalue="Application.string_reverse" />
       <item itemvalue="Application.swapping_two_numbers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lab35" />
+        <item itemvalue="Application.lab34" />
         <item itemvalue="Application.primeNumber" />
         <item itemvalue="Application.swapping_two_numbers" />
         <item itemvalue="Application.string_reverse" />
-        <item itemvalue="Application.reverse_string_using_stringBuilder" />
-        <item itemvalue="Application.palindrome_check" />
       </list>
     </recent_temporary>
   </component>
