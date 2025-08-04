@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="011f0a1d-0c14-484f-b841-1abcf8439628" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/Set/lab35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/Generics/lab37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/Generics/lab38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/List/queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/Map/lab36.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/CollectionFramework/Set/lab34.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/CollectionFramework/Set/lab34.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionFramework/Set/lab34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionFramework/Set/lab34.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,6 +133,8 @@
     "Application.lab33.executor": "Run",
     "Application.lab34.executor": "Run",
     "Application.lab35.executor": "Run",
+    "Application.lab37.executor": "Run",
+    "Application.lab38.executor": "Run",
     "Application.leap_year.executor": "Run",
     "Application.linkedList.executor": "Run",
     "Application.main_method_argument_change.executor": "Run",
@@ -141,9 +146,11 @@
     "Application.print_array.executor": "Run",
     "Application.problemStatement.executor": "Run",
     "Application.problem_statement_forloop.executor": "Run",
+    "Application.queue.executor": "Run",
     "Application.restrictData.executor": "Run",
     "Application.reverse_string_using_stringBuilder.executor": "Run",
     "Application.singleInheritance.executor": "Run",
+    "Application.src.CollectionFramework.Map.lab34.executor": "Run",
     "Application.src.OOPS_Concept.ImpClassMembers.RunnerClass.executor": "Run",
     "Application.src.OOPS_Concept.Inheritance.Hierarchical.RunnerClass.executor": "Run",
     "Application.src.OOPS_Concept.Poly.Overriding.RC.executor": "Run",
@@ -179,20 +186,7 @@
       <recent name="src.interview_programs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lab35">
-    <configuration name="lab34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.CollectionFramework.Set.lab34" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.CollectionFramework.Set.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.lab38">
     <configuration name="lab35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.CollectionFramework.Set.lab35" />
       <module name="JavaPractice" />
@@ -206,12 +200,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="primeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.int_pro_practice.primeNumber" />
+    <configuration name="lab36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.CollectionFramework.Map.lab36" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.int_pro_practice.*" />
+          <option name="PATTERN" value="src.CollectionFramework.Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,12 +213,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="string_reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.int_pro_practice.string_reverse" />
+    <configuration name="lab37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.CollectionFramework.Generics.lab37" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.int_pro_practice.*" />
+          <option name="PATTERN" value="src.CollectionFramework.Generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,12 +226,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="swapping_two_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.int_pro_practice.swapping_two_numbers" />
+    <configuration name="lab38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.CollectionFramework.Generics.lab38" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.int_pro_practice.*" />
+          <option name="PATTERN" value="src.CollectionFramework.Generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.CollectionFramework.List.queue" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.CollectionFramework.List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,19 +253,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.lab34" />
+      <item itemvalue="Application.lab36" />
+      <item itemvalue="Application.lab37" />
+      <item itemvalue="Application.lab38" />
+      <item itemvalue="Application.queue" />
       <item itemvalue="Application.lab35" />
-      <item itemvalue="Application.primeNumber" />
-      <item itemvalue="Application.string_reverse" />
-      <item itemvalue="Application.swapping_two_numbers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lab38" />
+        <item itemvalue="Application.lab37" />
+        <item itemvalue="Application.lab36" />
+        <item itemvalue="Application.queue" />
         <item itemvalue="Application.lab35" />
-        <item itemvalue="Application.lab34" />
-        <item itemvalue="Application.primeNumber" />
-        <item itemvalue="Application.swapping_two_numbers" />
-        <item itemvalue="Application.string_reverse" />
       </list>
     </recent_temporary>
   </component>

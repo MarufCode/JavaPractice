@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="011f0a1d-0c14-484f-b841-1abcf8439628" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/lab31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/List/queue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,12 +123,18 @@
     &quot;Application.lab28.executor&quot;: &quot;Run&quot;,
     &quot;Application.lab29.executor&quot;: &quot;Run&quot;,
     &quot;Application.lab30.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab31.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab32.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab33.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab34.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab35.executor&quot;: &quot;Run&quot;,
     &quot;Application.leap_year.executor&quot;: &quot;Run&quot;,
     &quot;Application.linkedList.executor&quot;: &quot;Run&quot;,
     &quot;Application.main_method_argument_change.executor&quot;: &quot;Run&quot;,
     &quot;Application.mul_table_usingforloop.executor&quot;: &quot;Run&quot;,
     &quot;Application.palindrome.executor&quot;: &quot;Run&quot;,
     &quot;Application.palindrome_check.executor&quot;: &quot;Run&quot;,
+    &quot;Application.primeNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.prime_number.executor&quot;: &quot;Run&quot;,
     &quot;Application.print_array.executor&quot;: &quot;Run&quot;,
     &quot;Application.problemStatement.executor&quot;: &quot;Run&quot;,
@@ -171,13 +177,13 @@
       <recent name="src.interview_programs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lab31">
-    <configuration name="ListExample01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.CollectionFramework.ListExample01" />
+  <component name="RunManager" selected="Application.queue">
+    <configuration name="lab34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.CollectionFramework.Set.lab34" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.CollectionFramework.*" />
+          <option name="PATTERN" value="src.CollectionFramework.Set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,12 +191,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCustomException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.exceptions.Custom_Exception.TestCustomException" />
+    <configuration name="lab35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.CollectionFramework.Set.lab35" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.exceptions.Custom_Exception.*" />
+          <option name="PATTERN" value="src.CollectionFramework.Set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,12 +204,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.CollectionFramework.lab31" />
+    <configuration name="primeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.int_pro_practice.primeNumber" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.CollectionFramework.*" />
+          <option name="PATTERN" value="src.int_pro_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,12 +217,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="linkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.CollectionFramework.linkedList" />
+    <configuration name="queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.CollectionFramework.List.queue" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.CollectionFramework.*" />
+          <option name="PATTERN" value="src.CollectionFramework.List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,12 +230,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="restrictData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.CollectionFramework.restrictData" />
+    <configuration name="swapping_two_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.int_pro_practice.swapping_two_numbers" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.CollectionFramework.*" />
+          <option name="PATTERN" value="src.int_pro_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -238,19 +244,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.lab31" />
-      <item itemvalue="Application.ListExample01" />
-      <item itemvalue="Application.linkedList" />
-      <item itemvalue="Application.restrictData" />
-      <item itemvalue="Application.TestCustomException" />
+      <item itemvalue="Application.queue" />
+      <item itemvalue="Application.lab34" />
+      <item itemvalue="Application.lab35" />
+      <item itemvalue="Application.primeNumber" />
+      <item itemvalue="Application.swapping_two_numbers" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lab31" />
-        <item itemvalue="Application.linkedList" />
-        <item itemvalue="Application.restrictData" />
-        <item itemvalue="Application.ListExample01" />
-        <item itemvalue="Application.TestCustomException" />
+        <item itemvalue="Application.queue" />
+        <item itemvalue="Application.lab35" />
+        <item itemvalue="Application.lab34" />
+        <item itemvalue="Application.primeNumber" />
+        <item itemvalue="Application.swapping_two_numbers" />
       </list>
     </recent_temporary>
   </component>
