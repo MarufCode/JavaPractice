@@ -30,7 +30,7 @@ public class lab38 {
 
     public static <T> void printFun (T a, T b){
         System.out.println(a);
-        System.out.println(b                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 );
+        System.out.println(b);
     }
 }
 
