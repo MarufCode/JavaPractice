@@ -32,24 +32,23 @@ public class swapping_two_numbers {
 
         // without using third variable
 
-        try {
-            Scanner sc1 = new Scanner(System.in);
-            System.out.println("Enter the value of x");
-            int a = sc1.nextInt();
-            System.out.println("Value of y");
-            int b = sc1.nextInt();
+      try{
+          Scanner sc1 = new Scanner(System.in);
+          System.out.println("Enter the value of a");
+          int a = sc1.nextInt();
+          System.out.println("Enter the value of b");
+          int b = sc1.nextInt();
 
 
-            a = a + b;
-            b = a - b;
-            a = a - b;
+          a = a + b;
+          b = a - b;
+          a = a - b;
 
-
-            System.out.println("Value of a is " + a);
-            System.out.println("Value of b is " + b);
-        }catch (Exception e){
-            System.out.println("Something wrong or bad!!");
-        }
+          System.out.println(a);
+          System.out.println(b);
+      }catch (Exception e){
+          System.out.println("Something Bad or invalid input");
+      }
 
 
 

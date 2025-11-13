@@ -6,9 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="011f0a1d-0c14-484f-b841-1abcf8439628" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/interview_programs/challenge_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/interview_programs/challenge_01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/interview_programs/chech_palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/interview_programs/chech_palindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/interview_programs/even_odd_number.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/interview_programs/even_odd_number.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/interview_programs/factorial_number.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/interview_programs/factorial_number.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/interview_programs/string_reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/interview_programs/string_reverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/src/interview_programs/swapping_two_numbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/src/interview_programs/swapping_two_numbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview_programs/chech_palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview_programs/chech_palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview_programs/even_odd_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview_programs/even_odd_number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview_programs/factorial_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview_programs/factorial_number.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/interview_programs/string_reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview_programs/string_reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interview_programs/swapping_two_numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interview_programs/swapping_two_numbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,20 +203,7 @@
       <recent name="src.interview_programs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.string_reverse">
-    <configuration name="StringBuilder_StringBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.StringANDfunction_concept.StringBuilder_StringBuffer" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.StringANDfunction_concept.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.swapping_two_numbers">
     <configuration name="challenge_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.interview_programs.challenge_01" />
       <module name="JavaPractice" />
@@ -223,12 +217,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.CollectionFramework.Generics.lab37" />
+    <configuration name="chech_palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.interview_programs.chech_palindrome" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.CollectionFramework.Generics.*" />
+          <option name="PATTERN" value="src.interview_programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,12 +230,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.CollectionFramework.Generics.lab38" />
+    <configuration name="even_odd_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.interview_programs.even_odd_number" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.CollectionFramework.Generics.*" />
+          <option name="PATTERN" value="src.interview_programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,8 +243,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="string_reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.interview_programs.string_reverse" />
+    <configuration name="factorial_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.interview_programs.factorial_number" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.interview_programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="swapping_two_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.interview_programs.swapping_two_numbers" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -263,19 +270,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.string_reverse" />
-      <item itemvalue="Application.StringBuilder_StringBuffer" />
+      <item itemvalue="Application.chech_palindrome" />
+      <item itemvalue="Application.even_odd_number" />
+      <item itemvalue="Application.factorial_number" />
+      <item itemvalue="Application.swapping_two_numbers" />
       <item itemvalue="Application.challenge_01" />
-      <item itemvalue="Application.lab37" />
-      <item itemvalue="Application.lab38" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.string_reverse" />
+        <item itemvalue="Application.swapping_two_numbers" />
+        <item itemvalue="Application.factorial_number" />
+        <item itemvalue="Application.even_odd_number" />
+        <item itemvalue="Application.chech_palindrome" />
         <item itemvalue="Application.challenge_01" />
-        <item itemvalue="Application.StringBuilder_StringBuffer" />
-        <item itemvalue="Application.lab38" />
-        <item itemvalue="Application.lab37" />
       </list>
     </recent_temporary>
   </component>

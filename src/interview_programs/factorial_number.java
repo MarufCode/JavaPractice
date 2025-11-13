@@ -45,19 +45,17 @@ public class factorial_number {
 //        System.out.println("Fact number is ->" + fac);
 //
 
-       long fac = 1;
+        long fact = 1;
 
-       Scanner scr = new Scanner(System.in);
-        System.out.println(":Enter the number");
-        int num = scr.nextInt();
+        Scanner sc1 = new Scanner(System.in);
+        System.out.println("Enter the number and i will find factorial of it");
+        Integer numb = sc.nextInt();
 
-        for (int i = 1; i <=num ; i++) {
-            fac = fac * i;
-
-
+        for (int i = 1; i<=numb; i++){
+            fact = fact * i;
         }
 
-        System.out.println("fact number is -> "+ fac);
+        System.out.println("Fact number is " + fact);
 
 
 
